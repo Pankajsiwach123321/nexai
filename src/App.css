@@ -1,38 +1,69 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+* {
+    scroll-behavior: smooth;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@font-face {
+    font-family: 'Recharge';
+    src: url(./assets/font/recharge_bd.ttf);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.backgroundimg {
+    color: #04040400;
+    background-image: url(./assets/images/webp/headerimg.webp);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.myscrol::-webkit-scrollbar {
+    display: none;
 }
 
-.App-link {
-  color: #61dafb;
+.amimation {
+    animation: moveup alternate 40s linear forwards infinite;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+@keyframes moveup {
+    0% {
+        transform: translateY(0%);
+    }
+
+    50% {
+        transform: translateY(-65%);
+    }
+
+    100% {
+        transform: translateY(0%);
+    }
+}
+
+.slick-list {
+    overflow: visible !important;
+    position: relative;
+    z-index: 1;
+}
+
+
+.blockchain .slick-list::after {
+    content: ' ';
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    width: 4000px;
+    right: 103.6%;
+    /* z-index: ; */
+    background-color: #040404;
+}
+
+.slick-track {
+    display: flex !important;
+}
+
+.slick-slide {
+    height: inherit !important;
+    display: flex !important;
+}
+
+.slick-slide>div {
+    display: flex;
+    width: 100%;
 }

@@ -9,7 +9,7 @@ const Ready = () => {
         <div className=" flex items-center justify-between gap-5 flex-col md:flex-row">
           <h2
             data-aos="fade-down"
-            className=" max-md:text-center font-Recharge max-w-[517px] font-bold text-[24px] sm:text-[40px] text-white leading-[35px] sm:leading-[52px]"
+            className=" max-md:text-center font-Recharge max-w-[517px] font-bold text-[24px] sm:text-[40px] text-white leading-[30px] sm:leading-[52px]"
           >
             Ready to get started{" "}
             <span className=" text-[#02CDCF]" data-aos="fade-up">

@@ -45,7 +45,7 @@ const Footer = () => {
             <div className="row">
               <div className="w-1/2 px-3">
                 <ul>
-                  <li className=" text-white font-bold text-lg leading-[21px] font-Recharge">
+                  <li className=" text-white font-bold text-[16px] lg:text-lg leading-[21px] font-Recharge">
                     Quick links
                   </li>
                 </ul>
@@ -102,7 +102,7 @@ const Footer = () => {
               </div>
               <div className="w-1/2 px-3">
                 <ul>
-                  <li className=" text-white font-bold text-lg leading-[21px] font-Recharge">
+                  <li className=" text-white font-bold text-[16px] lg:text-lg leading-[21px] font-Recharge">
                     Information's
                   </li>
                 </ul>

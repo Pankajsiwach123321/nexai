@@ -18,21 +18,19 @@ const Backtop = () => {
     });
   });
   return (
-    <div>
-      <div
-        onClick={() =>
-          setPosition({ ...position, position: { top: 0, left: 0 } })
-        }
-        className="fixed hidden bottom-[1%] right-[1%] z-30 translate-y-[0%] animate-bounce"
-        ref={scrollTop}
-      >
-        <div className=" rounded-[50%] w-[45px]  cursor-pointer scroll-smooth transform-[all] transform-[.3s] transform-[linear] bg-[linear-gradient(306.99deg,#0A4740_-13.72%,#09655A_102.02%)] hover:bg-[linear-gradient(306.99deg,#09655A_102%,#0A4740_-13.02%)] flex justify-center items-center">
-          <img
-            src={backtop}
-            alt="backtop"
-            //   className=" bg-[white] hover:bg-[#BD7D41] duration-300 rounded-full"
-          />
-        </div>
+    <div
+      onClick={() =>
+        setPosition({ ...position, position: { top: 0, left: 0 } })
+      }
+      className="fixed hidden bottom-[1%] right-[1%] z-30 translate-y-[0%] animate-bounce"
+      ref={scrollTop}
+    >
+      <div className=" rounded-[50%] w-[45px] duration-300  cursor-pointer scroll-smooth transform-[all] transform-[.3s] transform-[linear] bg-[#02CDCF] hover:bg-[#02cccf98] flex justify-center items-center">
+        <img
+          src={backtop}
+          alt="backtop"
+          //   className=" bg-[white] hover:bg-[#BD7D41] duration-300 rounded-full"
+        />
       </div>
     </div>
   );

@@ -10,7 +10,7 @@ const Token = () => {
       <div className=" max-w-[1207px] mx-auto px-3">
         <h2
           data-aos="fade-down"
-          className=" font-bold font-Recharge text-[20px] sm:text-[40px] leading-[50px] text-center text-[#02CDCF]"
+          className=" font-bold font-Recharge text-[24px] sm:text-[40px] leading-[30px] sm:leading-[50px] text-center text-[#02CDCF]"
         >
           NexAI Token & utility
         </h2>

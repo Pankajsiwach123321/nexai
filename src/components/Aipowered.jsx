@@ -24,7 +24,7 @@ const Aipowered = () => {
           <div className="md:w-1/2 w-full px-3 max-md:pt-6">
             <h2
               data-aos="fade-down"
-              className=" font-Recharge font-bold text-[30px] sm:text-[40px] text-[#02CDCF] leading-[40px] sm:leading-[50px]"
+              className=" font-Recharge font-bold text-[24px] sm:text-[40px] text-[#02CDCF] leading-[30px] sm:leading-[50px]"
             >
               Ai-Powered Home Assistant
             </h2>

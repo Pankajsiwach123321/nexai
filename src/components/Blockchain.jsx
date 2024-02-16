@@ -83,7 +83,7 @@ const Blockchain = () => {
       <div className=" max-w-[1040px] mx-auto px-3 ">
         <h2
           data-aos="fade-down"
-          className=" relative z-[2] text-center text-[#02CDCF] font-Recharge  font-bold text-[30px] sm:text-[40px] leading-[50px]"
+          className=" relative z-[2] text-center text-[#02CDCF] font-Recharge  font-bold text-[24px] sm:text-[40px] leading-[30px] sm:leading-[50px]"
         >
           Blockchain & AI technology
         </h2>

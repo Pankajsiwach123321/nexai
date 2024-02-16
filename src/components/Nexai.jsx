@@ -41,7 +41,7 @@ const Nexai = () => {
       <div className=" max-w-[1140px] mx-auto px-3">
         <h2
           data-aos="fade-down"
-          className=" font-bold font-Recharge text-[15px] sm:text-[40px] leading-[50px] text-center text-[#02CDCF]"
+          className=" font-bold font-Recharge text-[24px] sm:text-[40px] leading-[30px] sm:leading-[50px] text-center text-[#02CDCF]"
         >
           NexAi does all this. And more.
         </h2>

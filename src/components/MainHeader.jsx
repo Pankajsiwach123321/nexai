@@ -5,7 +5,7 @@ const MainHeader = () => {
   return (
     <main id="home" className="grow flex  items-center max-lg:py-[50px] ">
       <div className=" xl:min-w-[1140px] md:min-w-[768px] lg:min-w-[1024px] px-3 mx-auto">
-        <div>
+        
           <h1
             data-aos="zoom-in"
             className=" font-Recharge text-white text-[35px] sm:text-[55px] sm:leading-[75px] md:text-[60px]  max-w-[577px]"
@@ -25,7 +25,7 @@ const MainHeader = () => {
             text="Know More"
           />
         </div>
-      </div>
+      
     </main>
   );
 };

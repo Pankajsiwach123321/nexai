@@ -14,6 +14,7 @@ import { useEffect, useState } from 'react';
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Loader from './components/Loader';
+document.body.classList.add("overflow-hidden")
 function App() {
   const [preloder, setpreloder] = useState(true)
   setTimeout(() => {

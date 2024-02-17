@@ -30,7 +30,7 @@ const Token = () => {
                   <h2 className=" font-bold text-base sm:text-2xl leading-[31px] text-white">
                     Purchasing Nexai Products
                   </h2>
-                  <p className=" text-base font-normal z-[1] after:z-[-1] relative after:absolute after:w-[24px] after:h-[24px] after:rounded-full after:left-[-32px] sm:after:left-[-82px] after:top-[56px] after:bg-white font-Poppins leading-[25px] pt-4  text-[#B3B4B4] max-w-[536px]">
+                  <p className=" text-base font-normal z-[1] after:z-[-1] relative after:absolute after:w-[24px] after:h-[24px] after:rounded-full after:left-[-32px] sm:after:left-[-82px] after:top-[56px] after:bg-[#FCFCFC] font-Poppins leading-[25px] pt-4  text-[#B3B4B4] max-w-[536px]">
                     Nex AI tokens will be the primary currency for acquiring
                     Nexai's extensive range of software solutions, hardware
                     devices, including drones and sensors, and other smart home
@@ -43,7 +43,7 @@ const Token = () => {
                   <h2 className=" font-bold text-base sm:text-2xl leading-[31px] text-white">
                     Accessing Exclusive Content
                   </h2>
-                  <p className=" text-base font-normal font-Poppins leading-[25px] pt-4  text-[#B3B4B4] max-w-[536px] z-[1] after:z-[-1] relative after:absolute after:w-[24px] after:h-[24px] after:rounded-full after:left-[-32px] sm:after:left-[-82px] after:top-[56px] after:bg-white">
+                  <p className=" text-base font-normal font-Poppins leading-[25px] pt-4  text-[#B3B4B4] max-w-[536px] z-[1] after:z-[-1] relative after:absolute after:w-[24px] after:h-[24px] after:rounded-full after:left-[-32px] sm:after:left-[-82px] after:top-[56px] after:bg-[#FCFCFC]">
                     By holding Nex AI tokens, users will gain privileged access
                     to exclusive content within the Nexai platform. These tokens
                     will unlock premium features, advanced functionalities, and
@@ -55,7 +55,7 @@ const Token = () => {
                   <h2 className=" font-bold text-base sm:text-2xl leading-[31px] text-white">
                     Loyalty and Rewards
                   </h2>
-                  <p className=" text-base font-normal font-Poppins leading-[25px] pt-4  text-[#B3B4B4] max-w-[536px] z-[1] after:z-[-1] relative after:absolute after:w-[24px] after:h-[24px] after:rounded-full after:left-[-32px] sm:after:left-[-82px] after:top-[56px] after:bg-white">
+                  <p className=" text-base font-normal font-Poppins leading-[25px] pt-4  text-[#B3B4B4] max-w-[536px] z-[1] after:z-[-1] relative after:absolute after:w-[24px] after:h-[24px] after:rounded-full after:left-[-32px] sm:after:left-[-82px] after:top-[56px] after:bg-[#FCFCFC]">
                     The Nexai ecosystem will feature a robust loyalty program,
                     rewarding users with Nex AI tokens for their active
                     engagement, ongoing participation, and dedicated usage of
@@ -70,7 +70,7 @@ const Token = () => {
                   <h2 className=" font-bold text-base sm:text-2xl leading-[31px] text-white">
                     Participating in Governance
                   </h2>
-                  <p className=" text-base font-normal font-Poppins leading-[25px] pt-4  text-[#B3B4B4] max-w-[536px] z-[1] after:z-[-1] relative after:absolute after:w-[24px] after:h-[24px] after:rounded-full after:left-[-32px] sm:after:left-[-82px] after:top-[56px] after:bg-white">
+                  <p className=" text-base font-normal font-Poppins leading-[25px] pt-4  text-[#B3B4B4] max-w-[536px] z-[1] after:z-[-1] relative after:absolute after:w-[24px] after:h-[24px] after:rounded-full after:left-[-32px] sm:after:left-[-82px] after:top-[56px] after:bg-[#FCFCFC]">
                     Nex AI token holders will play a vital role in the
                     governance of the Nexai ecosystem. Through voting
                     mechanisms, token holders will have a direct say in the
@@ -84,7 +84,7 @@ const Token = () => {
                   <h2 className=" font-bold text-base sm:text-2xl leading-[31px] text-white">
                     Peer-to-Peer Transactions
                   </h2>
-                  <p className=" text-base font-normal font-Poppins leading-[25px] pt-4  text-[#B3B4B4] max-w-[536px] z-[1] after:z-[-1] relative after:absolute after:w-[24px] after:h-[24px] after:rounded-full after:left-[-32px] sm:after:left-[-82px] after:top-[56px] after:bg-white">
+                  <p className=" text-base font-normal font-Poppins leading-[25px] pt-4  text-[#B3B4B4] max-w-[536px] z-[1] after:z-[-1] relative after:absolute after:w-[24px] after:h-[24px] after:rounded-full after:left-[-32px] sm:after:left-[-82px] after:top-[56px] after:bg-[#FCFCFC]">
                     Nex AI tokens will enable seamless peer-to-peer transactions
                     within the Nexai community. Users will have the ability to
                     exchange tokens with others for various purposes, such as
@@ -98,7 +98,7 @@ const Token = () => {
                   <h2 className=" font-bold text-base sm:text-2xl leading-[31px] text-white">
                     Token Staking and Rewards
                   </h2>
-                  <p className=" text-base font-normal font-Poppins leading-[25px] pt-4  text-[#B3B4B4] max-w-[536px] z-[1] after:z-[-1] relative after:absolute after:w-[24px] after:h-[24px] after:rounded-full after:left-[-32px] sm:after:left-[-82px] after:top-[56px] after:bg-white">
+                  <p className=" text-base font-normal font-Poppins leading-[25px] pt-4  text-[#B3B4B4] max-w-[536px] z-[1] after:z-[-1] relative after:absolute after:w-[24px] after:h-[24px] after:rounded-full after:left-[-32px] sm:after:left-[-82px] after:top-[56px] after:bg-[#FCFCFC]">
                     Nex AI tokens will support staking mechanisms, allowing
                     users to lock up their tokens for a specified period. By
                     staking their tokens, users will earn additional rewards,

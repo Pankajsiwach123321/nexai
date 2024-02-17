@@ -10,7 +10,7 @@ const Aipowered = () => {
       ></div>
       <div className=" max-w-[1140px] mx-auto px-3 pt-[20px] md:pt-[80px]">
         <div className="row">
-          <div className="md:w-1/2 w-full px-3 flex items-center">
+          <div className="md:w-1/2 w-full max-lg:px-3 lg:pl-3 lg:pr-[38px] flex items-center">
             <div className=" relative z-[1]">
               <img
                 data-aos="zoom-in"
@@ -21,7 +21,7 @@ const Aipowered = () => {
               <div className=" absolute left-[17%] sm:left-[31%] z-[-1] top-[24%] max-w-[231px] w-full max-h-[231px] h-full blur-[227px] rounded-[231px] bg-[#02CDCF]"></div>
             </div>
           </div>
-          <div className="md:w-1/2 w-full px-3 max-md:pt-6">
+          <div className="md:w-1/2 w-full max-lg:px-3 lg:pr-3 lg:pl-[38px] max-md:pt-6">
             <h2
               data-aos="fade-down"
               className=" font-Recharge font-bold text-[24px] sm:text-[40px] text-[#02CDCF] leading-[30px] sm:leading-[50px]"

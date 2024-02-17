@@ -11,13 +11,13 @@ const Footer = () => {
               Nullam viverra natoque amet et sed scelerisque viverra fringilla
               platea. Ullamcorper.
             </p>
-            <div className=" flex gap-3 items-center mt-5">
+            <div className=" flex gap-3 items-center mt-4">
               <a
                 className=" group"
                 href="https://www.facebook.com/"
                 target="_blanck"
               >
-                <span className="  border-[2px] hover:py-1 rounded-full border-transparent hover:border-y-[#02CDCF] duration-300 inline-block group">
+                <span className="  border-[2px] py-1 rounded-full border-transparent hover:border-y-[#02CDCF] duration-300 inline-block group">
                   <Facebook />
                 </span>
               </a>
@@ -26,7 +26,7 @@ const Footer = () => {
                 href="https://twitter.com/account/access"
                 target="_blanck"
               >
-                <span className=" border-[2px] hover:py-1 rounded-full border-transparent hover:border-y-[#02CDCF] duration-300  inline-block group">
+                <span className=" border-[2px] py-1 rounded-full border-transparent hover:border-y-[#02CDCF] duration-300  inline-block group">
                   <Twitter />
                 </span>
               </a>
@@ -35,7 +35,7 @@ const Footer = () => {
                 href="https://web.telegram.org/a/"
                 target="_blanck"
               >
-                <span className="  border-[2px] hover:py-1 rounded-full border-transparent hover:border-y-[#02CDCF] duration-300  inline-block group">
+                <span className="  border-[2px]  py-1 rounded-full border-transparent hover:border-y-[#02CDCF] duration-300  inline-block group">
                   <Telegram />
                 </span>
               </a>

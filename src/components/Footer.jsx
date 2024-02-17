@@ -7,7 +7,7 @@ const Footer = () => {
       <div className=" max-w-[1140px] mx-auto px-3 sm:pt-[70px]">
         <div className="row pt-[25px] sm:pt-[70px]">
           <div className="lg:w-7/12 sm:w-1/2 w-full px-3 sm:pt-[36px]">
-            <p className=" font-bold text-base leading-[25px] font-Recharge text-[#B3B4B4] max-w-[356px]">
+            <p className=" font-bold text-[14px] lg:text-base leading-[25px] font-Recharge text-[#B3B4B4] max-w-[356px]">
               Nullam viverra natoque amet et sed scelerisque viverra fringilla
               platea. Ullamcorper.
             </p>
@@ -53,7 +53,7 @@ const Footer = () => {
                   <li className="mt-5">
                     <a
                       href="#home"
-                      className=" navhover  hover:text-[#fff] duration-300 font-Recharge font-bold text-base leading-[19px] text-[#B5B8B7]"
+                      className=" navhover  hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
                     >
                       Home
                     </a>
@@ -61,7 +61,7 @@ const Footer = () => {
                   <li className="mt-5">
                     <a
                       href="#"
-                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-base leading-[19px] text-[#B5B8B7]"
+                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
                     >
                       Features
                     </a>
@@ -69,7 +69,7 @@ const Footer = () => {
                   <li className="mt-5">
                     <a
                       href="#market"
-                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-base leading-[19px] text-[#B5B8B7]"
+                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
                     >
                       Marketplace
                     </a>
@@ -77,7 +77,7 @@ const Footer = () => {
                   <li className="mt-5">
                     <a
                       href="#token"
-                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-base leading-[19px] text-[#B5B8B7]"
+                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
                     >
                       Tokens
                     </a>
@@ -85,7 +85,7 @@ const Footer = () => {
                   <li className="mt-5">
                     <a
                       href="#nexchat"
-                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-base leading-[19px] text-[#B5B8B7]"
+                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
                     >
                       NexChat
                     </a>
@@ -93,7 +93,7 @@ const Footer = () => {
                   <li className="mt-5">
                     <a
                       href="#about"
-                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-base leading-[19px] text-[#B5B8B7]"
+                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
                     >
                       About
                     </a>
@@ -110,7 +110,7 @@ const Footer = () => {
                   <li className="mt-5">
                     <a
                       href="#"
-                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-base leading-[19px] text-[#B5B8B7]"
+                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
                     >
                       Contact
                     </a>
@@ -118,7 +118,7 @@ const Footer = () => {
                   <li className="mt-5">
                     <a
                       href="#"
-                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-base leading-[19px] text-[#B5B8B7]"
+                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
                     >
                       Phone
                     </a>
@@ -126,7 +126,7 @@ const Footer = () => {
                   <li className="mt-5">
                     <a
                       href="#"
-                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-base leading-[19px] text-[#B5B8B7]"
+                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
                     >
                       terms
                     </a>
@@ -134,7 +134,7 @@ const Footer = () => {
                   <li className="mt-5">
                     <a
                       href="#"
-                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-base leading-[19px] text-[#B5B8B7]"
+                      className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
                     >
                       Privacy
                     </a>
@@ -144,7 +144,7 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <p className=" font-Recharge font-bold text-base leading-[19px] text-center text-[#B3B6B6] border-t-[2px] py-[20px] mt-[30px] border-t-[#B3B6B6]">
+        <p className=" font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-center text-[#B3B6B6] border-t-[2px] py-[20px] mt-[30px] border-t-[#B3B6B6]">
           @Copyright.nexai
         </p>
         <div className="max-w-[228px] max-h-[228px] w-full z-[-1]  h-full absolute right-[-15%] top-[0%] bg-[#02CDCF] blur-[175px]"></div>

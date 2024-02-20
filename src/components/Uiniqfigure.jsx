@@ -1,11 +1,11 @@
 import React from "react";
 import { Awareness, Message, Plushistory, Settinghistory } from "./Icon";
-
+import earth from "../assets/images/webp/earth.png";
 const Uiniqfigure = () => {
   return (
     <section className="mt-[-2px] pt-[100px] md:mb-[80px]" id="about">
       <div className="max-w-[1340px] mx-auto px-3">
-        <div className="w-full border-[1px] border-white h-[810px] mb-[25px] md:mb-[100px] overflow-hidden  rounded-[32px] pt-[30px]  md:pt-[80px] px-[25px] sm:px-[100px] bg-[url(./assets/images/webp/bgservices.webp)] bg-fullsize bg-no-repeat">
+        <div className="w-full relative border-[1px] border-white h-[810px] mb-[25px] md:mb-[100px] overflow-hidden  rounded-[32px] pt-[30px]  md:pt-[80px] px-[25px] sm:px-[100px] bg-[url(./assets/images/webp/bgservices.webp)] bg-fullsize bg-no-repeat">
           <div className=" sticky top-0 ">
             <h2
               data-aos="zoom-in"
@@ -75,6 +75,11 @@ const Uiniqfigure = () => {
               </div>
             </div>
           </div>
+          <img
+            src={earth}
+            alt="earth"
+            className=" rounded-[999px] max-w-[412px] max-h-[424px] absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-30%] mix-blend-color"
+          />
         </div>
       </div>
     </section>

@@ -39,14 +39,15 @@ const Whatnex = () => {
               <Button custum="mt-[40px]" text="Learn More" />
             </div>
             <div className="lg:w-1/2 w-full px-3 flex items-center">
-              <div className=" relative -hidden rounded-[999px] mix-blend-lighten z-[1]  ">
+              <div className=" relative flex justify-center items-center  z-[1]  ">
                 <img
                   data-aos="zoom-in"
                   src={artboard}
                   alt="artboard"
-                  className=" w-full mix-blend-lighten rounded-[500px] "
+                  className="max-w-[262px] mix-blend-multiply sm:max-w-[535px] w-full object-cover h-[264px] sm:h-[528px] relative z-[1] rounded-[49%]"
                 />
-                {/* <div className=" max-w-[468px] max-h-[468px] z-[-1] w-full h-full mix-blend-lighten rounded-full bg-[#02CDCF] blur-[150px] absolute top-[2%] left-[6%]"></div> */}
+                <div class="absolute max-w-[262px] sm:max-w-[535px] w-full rounded-full h-[264px] sm:h-[528px] bg-[#02CDCF] opacity-60  mix-blend-hue"></div>
+                <div class="absolute w-[114px] sm:w-[228px] h-[114px] sm:h-[228px] rounded-[50%] bg-[#02CDCF] z-[1] bottom-[6%] right-[21%] blur-[100px] sm:blur-[180px]"></div>
               </div>
             </div>
           </div>

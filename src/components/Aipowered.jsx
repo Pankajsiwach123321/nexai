@@ -1,13 +1,14 @@
 import React from "react";
 import aipowered from "../assets/images/webp/Artboardimg2.webp";
+import layer from "../assets/images/webp/layerheader.png";
 import Button from "./Button";
 const Aipowered = () => {
   return (
     <section className=" relative z-[1]">
-      <div
-        className="w-full h-[106px]  max-md:hidden blur-2xl  translate-y-[-80px]   bg-[linear-gradient(180deg,#04040400_24.07%,rgba(4,4,4,0)_96%)]
-"
-      ></div>
+      <div className="w-full h-[106px]  max-md:hidden blur-2xl  translate-y-[-80px]">
+        {" "}
+        <img src={layer} alt="layer" />
+      </div>
       <div className=" max-w-[1140px] mx-auto px-3 pt-[20px] md:pt-[80px]">
         <div className="row">
           <div className="md:w-1/2 w-full max-lg:px-3 lg:pl-3 lg:pr-[38px] flex items-center">

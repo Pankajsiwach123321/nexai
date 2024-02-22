@@ -23,7 +23,10 @@ const MainHeader = () => {
           Etiam viverra nec libero a. A id id tempus molestie sed. Fringilla
           odio.
         </p>
-        <Button custum="sm:mt-[51px] mt-[25px]" text="Know More" />
+        <Button
+          custum="sm:mt-[51px] mt-[25px] relative z-[1]"
+          text="Know More"
+        />
       </div>
     </main>
   );

@@ -15,7 +15,7 @@ const Aipowered = () => {
                 alt="aipowered"
                 className="w-full"
               />
-              <div className=" absolute left-[17%] sm:left-[31%] z-[-1] top-[24%] max-w-[231px] w-full max-h-[231px] h-full blur-[227px] rounded-[231px] bg-[#02CDCF]"></div>
+              <div className=" absolute left-[17%] sm:left-[31%] z-[1] top-[24%] max-w-[231px] w-full max-h-[231px] h-full blur-[227px] rounded-[231px] bg-[#02CDCF]"></div>
             </div>
           </div>
           <div className="md:w-1/2 w-full max-lg:px-3 lg:pr-3 lg:pl-[38px] max-md:pt-6">

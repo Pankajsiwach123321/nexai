@@ -10,8 +10,8 @@ const Header = () => {
         <Navbar />
         <MainHeader />
       </div>
-      <div className="-z-[1]  max-w-[262px] absolute max-h-[262px] w-full h-full rounded-[999px] bg-[#02CDCF] opacity-30 left-[-12px] top-[120px] blur-[177px]"></div>
-      <div className="w-full h-[106px]  max-md:h idden blur-2xl  translate-y-[-85px]">
+      <div className="-z-[1]   max-w-[262px] absolute max-h-[262px] w-full h-full rounded-[999px] bg-[#02CDCF] opacity-30 left-[-12px] top-[120px] blur-[177px]"></div>
+      <div className="w-full h-[106px]   max-sm:hidden idden blur-2xl  translate-y-[-85px]">
         <img src={layer} alt="layer" />
       </div>
     </header>

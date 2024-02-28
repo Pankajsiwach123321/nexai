@@ -3,7 +3,10 @@ import { Awareness, Message, Plushistory, Settinghistory } from "./Icon";
 import earth from "../assets/images/webp/earth.png";
 const Uiniqfigure = () => {
   return (
-    <section className="mt-[-2px] pt-[100px] md:mb-[80px]" id="about">
+    <section
+      className="mt-[-2px] pt-[30px] md:pt-[100px] md:mb-[80px]"
+      id="about"
+    >
       <div className="max-w-[1340px] mx-auto px-3">
         <div className="w-full relative border-[1px] border-white h-[810px] mb-[25px] md:mb-[100px] overflow-hidden  rounded-[32px] pt-[30px]  md:pt-[80px] px-[25px] sm:px-[100px] bg-[url(./assets/images/webp/bgservices.webp)] bg-fullsize bg-no-repeat">
           <div className=" sticky top-0 ">

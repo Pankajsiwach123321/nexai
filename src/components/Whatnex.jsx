@@ -5,9 +5,9 @@ const Whatnex = () => {
   return (
     <section className=" pt-[40px] sm:pt-[80px]">
       <div className=" max-w-[1340px] mx-auto px-3">
-        <div className="w-full relative z-[1] border-[1px] border-white  mb-[100px] overflow-hidden  rounded-[32px] px-[25px] py-[25px] sm:py-[66px]  lg:py-[163px] sm:px-[50px] lg:px-[100px]    bg-[url(./assets/images/webp/bg-gif.webp)] bg-fullsize bg-transparent bg-no-repeat">
+        <div className="w-full relative z-[1] border-[1px] border-white mb-[30px] mb-md-[100px] overflow-hidden  rounded-[32px] px-[25px] py-[25px] sm:py-[66px]  lg:py-[163px] sm:px-[50px] lg:px-[100px]    bg-[url(./assets/images/webp/bg-gif.webp)] bg-fullsize bg-transparent bg-no-repeat">
           <div className="row flex-col-reverse lg:flex-row">
-            <div className="lg:w-1/2 w-full px-3 lg:ps-3 lg:pe-6">
+            <div className="lg:w-1/2 w-full px-3 lg:ps-3 lg:pe-6  pt-6 sm:pt-0">
               <h2
                 data-aos="fade-down"
                 className=" text-[#02CDCF] font-bold text-[24px] sm:text-[40px] font-Recharge leading-[30px] sm:leading-[50px]"

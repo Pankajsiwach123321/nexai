@@ -62,7 +62,7 @@ const Blockchain = () => {
         style={{ marginTop: e.translate }}
         className={`w-full px-3`}
       >
-        <div className=" group p-[70px_55px_113px] bg-[url(./assets/images/webp/Polygon.webp)] bg-fullsize bg-no-repeat">
+        <div className=" group min-h-[340px] sm:min-h-[365px] pt-[70px] bg-[url(./assets/images/webp/Polygon.webp)] bg-fullsize bg-no-repeat">
           <div className=" flex justify-center items-center flex-col">
             <p className=" text-white font-Recharge font-bold text-[32px] leading-[51px] text-center p-[4px_21px] bg-black rounded-[999px]  shadow-[0px_4px_16px_0px_#02CDCF99_inset]">
               {e.number}
@@ -77,7 +77,7 @@ const Blockchain = () => {
   ));
   return (
     <section
-      className="blockchain relative z-[3] pt-[25px] md:pt-[80px] pb-[25px] md:pb-[100px] overflow-x-clip"
+      className="blockchain  relative z-[3] pt-[16px] md:pt-[80px] pb-[25px] md:pb-[100px] overflow-x-clip"
       id="market"
     >
       <div className=" max-w-[1040px] mx-auto px-3 ">
@@ -98,7 +98,7 @@ const Blockchain = () => {
         </p>
         <h3
           data-aos="fade-down"
-          className=" relative z-[2] font-Recharge font-bold text-base sm:text-xl leading-[32px] text-center max-w-[684px] text-white mx-auto  sm:mt-[96px]"
+          className=" relative z-[2] font-Recharge font-bold text-base sm:text-xl leading-[32px] text-center max-w-[684px] text-white mx-auto mt-5  sm:mt-[96px]"
         >
           By building the software on blockchain, Nexai provides the following
           advantages

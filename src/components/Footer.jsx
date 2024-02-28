@@ -50,7 +50,7 @@ const Footer = () => {
                   </li>
                 </ul>
                 <ul>
-                  <li className="mt-5">
+                  <li className="mt-[9px] sm:mt-5">
                     <a
                       href="#home"
                       className=" navhover  hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
@@ -58,7 +58,7 @@ const Footer = () => {
                       Home
                     </a>
                   </li>
-                  <li className="mt-5">
+                  <li className="mt-[9px] sm:mt-5">
                     <a
                       href="#"
                       className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
@@ -66,7 +66,7 @@ const Footer = () => {
                       Features
                     </a>
                   </li>
-                  <li className="mt-5">
+                  <li className="mt-[9px] sm:mt-5">
                     <a
                       href="#market"
                       className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
@@ -74,7 +74,7 @@ const Footer = () => {
                       Marketplace
                     </a>
                   </li>
-                  <li className="mt-5">
+                  <li className="mt-[9px] sm:mt-5">
                     <a
                       href="#token"
                       className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
@@ -82,7 +82,7 @@ const Footer = () => {
                       Tokens
                     </a>
                   </li>
-                  <li className="mt-5">
+                  <li className="mt-[9px] sm:mt-5">
                     <a
                       href="#nexchat"
                       className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
@@ -90,7 +90,7 @@ const Footer = () => {
                       NexChat
                     </a>
                   </li>
-                  <li className="mt-5">
+                  <li className="mt-[9px] sm:mt-5">
                     <a
                       href="#about"
                       className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
@@ -107,7 +107,7 @@ const Footer = () => {
                   </li>
                 </ul>
                 <ul>
-                  <li className="mt-5">
+                  <li className="mt-[9px] sm:mt-5">
                     <a
                       href="#"
                       className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
@@ -115,7 +115,7 @@ const Footer = () => {
                       Contact
                     </a>
                   </li>
-                  <li className="mt-5">
+                  <li className="mt-[9px] sm:mt-5">
                     <a
                       href="#"
                       className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
@@ -123,7 +123,7 @@ const Footer = () => {
                       Phone
                     </a>
                   </li>
-                  <li className="mt-5">
+                  <li className="mt-[9px] sm:mt-5">
                     <a
                       href="#"
                       className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"
@@ -131,7 +131,7 @@ const Footer = () => {
                       terms
                     </a>
                   </li>
-                  <li className="mt-5">
+                  <li className="mt-[9px] sm:mt-5">
                     <a
                       href="#"
                       className=" navhover hover:text-[#fff] duration-300 font-Recharge font-bold text-[14px] lg:text-base leading-[19px] text-[#B5B8B7]"

@@ -12,7 +12,7 @@ const Navbar = () => {
     document.body.classList.remove("max-sm:overflow-hidden");
   }
   return (
-    <nav className=" py-[10px] sm:py-[38px] ">
+    <nav className=" p-[28px_0px_38px] sm:py-[38px] ">
       <div className=" max-w-[824px] ml-auto mr-auto lg:mr-[120px] px-3">
         <div className=" flex justify-between items-center">
           <ul
